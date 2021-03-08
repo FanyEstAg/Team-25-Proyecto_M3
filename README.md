@@ -28,7 +28,6 @@ _Dicho proyecto tiene como propósito principal proyectar que tan probable es te
 * ["Google Colab"](https://colab.research.google.com/)
 * ["Python"](https://www.python.org/)
 * ["Datos del INEGI"](https://www.inegi.org.mx/datos/)
-* ["API del INEGI"](https://www.inegi.org.mx/servicios/api_indicadores.html)
 
 ## Enlaces 🔗
 * Libreta: https://colab.research.google.com/drive/1jRJaumGRm1rPiKHPi1AwFYc5fn5Ravfg?usp=sharing
