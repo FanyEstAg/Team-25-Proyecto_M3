@@ -18,8 +18,8 @@ _En el presente respositorio se encuentran los archivos correspondientes al prye
 
 ## Construido con 🛠️
 
-*[Google Colab] (https://colab.research.google.com/)
-*[Python] (https://www.python.org/)
+* [Google Colab] (https://colab.research.google.com/)
+* [Python] (https://www.python.org/)
 
 ## Enlaces 🔗
 * Libreta: https://colab.research.google.com/drive/1jRJaumGRm1rPiKHPi1AwFYc5fn5Ravfg?usp=sharing
