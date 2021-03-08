@@ -8,7 +8,7 @@ _En el presente respositorio se encuentran los archivos correspondientes al proy
  * Teaching Assistant: Uriel Rodríguez y Dalai Aguirre
  * Learning Experience Executive: Dara Moreno Novoa
 
-_Dicho proyetco tiene como propósito principal proyectar que tan probable es tener un plan de carrera exitoso siendo mujer, es decir, contar con un trabajo que cumpla las siguientes características:
+_Dicho proyecto tiene como propósito principal proyectar que tan probable es tener un plan de carrera exitoso siendo mujer, es decir, contar con un trabajo que cumpla las siguientes características:_
  - Justamente remunerado
  - Prestaciones de ley y superiores
  - Jornada laboral adecuada
