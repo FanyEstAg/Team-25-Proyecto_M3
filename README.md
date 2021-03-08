@@ -21,6 +21,6 @@ _En el presente respositorio se encuentran los archivos correspondientes al prye
 [Google Colab] (https://colab.research.google.com/)
 [Python] (https://www.python.org/)
 
-##Enlaces 🔗
+## Enlaces 🔗
 * Libreta: https://colab.research.google.com/drive/1jRJaumGRm1rPiKHPi1AwFYc5fn5Ravfg?usp=sharing
 * Datasets: https://drive.google.com/drive/folders/1kQAFbW-IEBPuCiI-QFUqkpB99fPYvbs8?usp=sharing
