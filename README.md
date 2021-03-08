@@ -9,11 +9,11 @@ _En el presente respositorio se encuentran los archivos correspondientes al proy
  * Learning Experience Executive: Dara Moreno Novoa
 
 _Dicho proyetco tiene como propósito principal proyectar que tan probable es tener un plan de carrera exitoso siendo mujer, es decir, contar con un trabajo que cumpla las siguientes características:
- * - Justamente remunerado
- * - Prestaciones de ley y superiores
- * - Jornada laboral adecuada
- * - Sin riesgo de despido injustificado o por causas de género 
- * - Ambiente de trabajo profesional
+ - Justamente remunerado
+ - Prestaciones de ley y superiores
+ - Jornada laboral adecuada
+ - Sin riesgo de despido injustificado o por causas de género 
+ - Ambiente de trabajo profesional
 
 
 ## Autoras ✒️
