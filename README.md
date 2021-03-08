@@ -1,12 +1,19 @@
-#**Ser Mujer En Mexico, Estadísticas**
+# **Ser Mujer En Mexico, Estadísticas**
 
 ## Descripción 🔖
 Proyecto del Team 25 correspondiente al módulo 3 de Procesamiento de Datos con Python
 
-_En el presente respositorio se encuentran los archivos correspondientes al pryecto final del "Módulo 3: Procesamiento de Datos con Python" del programa Data Science BEDU - Santander", impartido por el Team BEDU:_
+_En el presente respositorio se encuentran los archivos correspondientes al proyecto final del "Módulo 3: Procesamiento de Datos con Python" del programa Data Science BEDU - Santander", impartido por el Team BEDU:_
  * Experto: Sergio Urbina
  * Teaching Assistant: Uriel Rodríguez y Dalai Aguirre
  * Learning Experience Executive: Dara Moreno Novoa
+
+_Dicho proyetco tiene como propósito principal proyectar que tan probable es tener un plan de carrera exitoso siendo mujer, es decir, contar con un trabajo que cumpla las siguientes características:
+ * - Justamente remunerado
+ * - Prestaciones de ley y superiores
+ * - Jornada laboral adecuada
+ * - Sin riesgo de despido injustificado o por causas de género 
+ * - Ambiente de trabajo profesional
 
 
 ## Autoras ✒️
