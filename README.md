@@ -32,3 +32,4 @@ _Dicho proyecto tiene como propósito principal proyectar que tan probable es te
 ## Enlaces 🔗
 * Libreta Principal del Proyecto: https://colab.research.google.com/drive/1jRJaumGRm1rPiKHPi1AwFYc5fn5Ravfg?usp=sharing
 * Datasets: https://drive.google.com/drive/folders/1kQAFbW-IEBPuCiI-QFUqkpB99fPYvbs8?usp=sharing
+* Video Explicativo: https://youtu.be/cgk_WW40WcM
