@@ -30,5 +30,5 @@ _Dicho proyecto tiene como propósito principal proyectar que tan probable es te
 * ["Datos del INEGI"](https://www.inegi.org.mx/datos/)
 
 ## Enlaces 🔗
-* Libreta: https://colab.research.google.com/drive/1jRJaumGRm1rPiKHPi1AwFYc5fn5Ravfg?usp=sharing
+* Libreta Principal del Proyecto: https://colab.research.google.com/drive/1jRJaumGRm1rPiKHPi1AwFYc5fn5Ravfg?usp=sharing
 * Datasets: https://drive.google.com/drive/folders/1kQAFbW-IEBPuCiI-QFUqkpB99fPYvbs8?usp=sharing
